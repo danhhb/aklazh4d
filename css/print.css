@@ -1,0 +1,30 @@
+div.container {
+	border: 1px solid black;
+	padding: .9cm;
+	overflow: hidden;
+}
+nav{
+	display: none;
+}
+.square {
+	color: #111;
+	float: left;
+	font-family: Arial;
+	font-size: 24px;
+	font-weight: bold;
+	height: 32px;
+	outline: 1px solid black;
+	text-align: center;
+	width: 32px;
+}
+ .ticket {
+  	height: 96px;
+  	width: 288px;
+  	margin-left: auto;
+  	margin-right: auto;
+  	padding: .5cm;
+  	outline: 1px dashed #000;
+  	float: left;
+}
+
+
